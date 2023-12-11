@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **mms-11/mms-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,19 +9,19 @@ Here are some ideas to get you started:
 - 💬 Passionate about life, people, nature, animals, universe and about  helping make this world a better place for every being.  ...
 - 🌞 My dream is to improve people´s life experiences with technology ...
 - <3 Fun fact I'm vegetarian since December 2020 🐷🐮🐔: ...
--->
+
 <div> 
        <a href="https://github.com/mms-11" > </a>
-       <img height="100em" src = "https://github-readme-stats.vercel.app/api?username=mms-11&show_icons=true&theme=radical">
-       <img height="100em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mms-11&layout=compact&langs-count=16&theme=radical">
+       <img height="120em" src = "https://github-readme-stats.vercel.app/api?username=mms-11&show_icons=true&theme=radical">
+       <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mms-11&layout=compact&langs-count=16&theme=radical">
        
 
 </div>
 <div style ="display: inline_block"><br>
-    <img allign="center" alt ="pythonmari" height ="30" width="40" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img allign="center" alt ="Cmari" height ="30" width="40" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img allign="center" alt ="htmlmari" height ="30" width="40" src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img allign="center" alt ="cssmari" height ="30" width="40" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  
+    <img allign="center" alt ="pythonmari" height ="40" width="40" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img allign="center" alt ="Cmari" height ="40" width="40" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img allign="center" alt ="htmlmari" height ="40" width="40" src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img allign="center" alt ="cssmari" height ="40" width="40" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  
 </div>
 ##
 <div>
