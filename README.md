@@ -21,7 +21,7 @@
     <img allign="center" alt ="htmlmari" height ="40" width="60" src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img allign="center" alt ="cssmari" height ="40" width="60" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  
     <img allign="center" alt ="jsmari" height ="40" width="60" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+    <img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></img>
     <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mariana-melo-70048a239" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mariana-melo-70048a239?trk=profile-badge">Mariana Melo</a></div>
               
     
